@@ -1,0 +1,20 @@
+{
+  "name": "vuepress-plugin-graysite",
+  "version": "0.1.0",
+  "description": "Plug-ins that gray your site for VuePress.",
+  "keywords": [
+    "pray",
+    "gray",
+    "vue",
+    "vuepress",
+    "mourn"
+  ],
+  "homepage": "https://github.com/zpfz/vuepress-plugin-graysite",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zpfz/vuepress-plugin-graysite.git"
+  },
+  "license": "MIT",
+  "author": "Feng L.H.",
+  "main": "index.js"
+}
